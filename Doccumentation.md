@@ -1,6 +1,10 @@
 # FYI
 **Things are still being added so wait :P**
 
+<img width="245" height="243" alt="image" src="https://github.com/user-attachments/assets/2dd3cf42-aa05-466e-984e-c70c84748417" />
+
+
+
 Hey there! Have you ever wanted to do something like make a skin, create a map, lms ETC.
 Well this doccumentation will show how and help you get started
 
