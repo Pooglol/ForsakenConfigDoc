@@ -1,3 +1,5 @@
+#FYI
+**Things are still being added so wait :P**
 Hey there! Have you ever wanted to do something like make a skin, create a map, lms ETC.
 Well this doccumentation will show how and help you get started
 
