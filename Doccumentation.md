@@ -58,10 +58,34 @@ Literally just paste in this
 
 Here is how to paste it in if you live under a rock btw
 
+https://files.catbox.moe/jrs679.mp4
+
+
 **FYI**
 putting in both WILL work. But there are big differences between the both of these
 
 # Exclusivity
-**Hey!** wanna make a dev exclusive skin
+**Hey!** wanna make a dev exclusive skin or killer?
+do these steps!
+Firstly go into your **Configuations** or **Config** by going into your character config
+Next... Go in to a Killer (or skin)'s config, and it should look like this if you're doing a killer...
 
+<img width="836" height="577" alt="image" src="https://github.com/user-attachments/assets/0d7d71bd-b088-4592-89f5-2cdb0d797f80" />
+
+And you're doing a skin
+
+<img width="797" height="365" alt="image" src="https://github.com/user-attachments/assets/fdd42890-ff6b-432c-bed0-73a59666e34b" />
+
+Paste in this!
+```lua
+    Exclusive = true, 
+```
+
+Works for skins and characters btw
+
+Here is a video if you **STILL** live under a rock
+
+https://files.catbox.moe/211oxn.mp4
+
+_dont ask why im searching up blackcats >:(_
 
