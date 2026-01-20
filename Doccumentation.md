@@ -94,5 +94,38 @@ Here is a video if you **STILL** live under a rock
 
 https://files.catbox.moe/211oxn.mp4
 
+# Dev
+**This is just exclusive but has a normal background (At the moment)** Do these steps to add it:
+Go into the *Config*,
+Paste this in:
+```luau
+Dev = true
+```
+
+# LimitedTimeData
+**This thing is REALLY complicated to do, so I am going ahead and talking in an understandable tone/context**
+Follow these steps:
+Go into your *Config*,
+Add this:
+```luau
+LimitedTimeData = 0,
+```
+Then what you wanna do is copy and paste this script into the Command Bar:
+```luau
+-- change to what u want lol
+print(os.time({
+    year = 2010,
+    month = 6,
+    day = 11,
+    hour = 9,
+    min = 12,
+    sec = 28
+}))
+```
+Then replace the 0 with that printed number,
+and then now you have an skin/character/emote that is limited to a certain date!
+
 _dont ask why im searching up blackcats >:(_
 
+Contributors: nori (Made LimitedTimeData and Dev)
+Creator: poog.lol
